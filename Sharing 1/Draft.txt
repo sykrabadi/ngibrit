@@ -1,0 +1,41 @@
+1. Text editor + plugins
+2. What is HTML?
+	2.1. Is HTML consider as a programming language?
+	2.2. Is HTML still relevant to dive in?
+3. Tags
+	3.1. HTML template tags
+	3.2. title, style, script, and meta tags
+	3.3. tag anatomy
+	3.3. create your website under body tag
+		3.3.1. text (h1, h2,..., p)
+		3.3.2. text styling (br, hr, em, strong,...)
+		3.3.3. image (img)
+		3.3.4. hyperlink (a)
+		3.3.5. bullet and numbering (ul, ol, li, dt,...)
+		3.3.6. table (table, thead, tbody, tr,...)
+		3.3.7. form (form, input, select, button,...)
+		3.3.8. grouping (div, span) 
+4. Write about yourself 
+	4.1. using heading tags properly
+	4.2. p and br tag
+	4.3. b, u, i tag
+	4.4. where you was? (using ul and li tag)
+	4.5. promote yourself! (using a tag properly)
+	4.6. post your pic (using img tag)
+5. Take home quests : table and forms
+
+break
+
+6. Make over your portfolio using css
+	6.1. What is CSS?
+	6.2. CSS anatomy
+	6.3. How to write CSS?
+	6.x. Is still relevant to dive in CSS?
+7. Dirty your hands with CSS!
+	7.1. Make over text tags (font styling and text styling)
+	7.2. Colorize your background 
+	7.3. Selector
+	7.4. Layouting
+		7.4.1. Display (Inline, block, inline-block)
+		7.4.2. Box Model (Padding, Margin, Border)
+8. Take home quests : Float, grid, and flex
